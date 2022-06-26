@@ -1,6 +1,5 @@
 import mysql.connector
 from Interface import *
-from Controllers import *
 
 if __name__ == '__main__':
     connection = mysql.connector.connect(
